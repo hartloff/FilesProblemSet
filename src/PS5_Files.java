@@ -124,8 +124,8 @@ public class PS5_Files {
 
 
     public static void main(String[] args) {
-    	    // sample usage
-    	    System.out.println(Q1("data/test0.txt"));
+        // sample usage
+        System.out.println(Q1("data/test0.txt"));
     }
 
 }
